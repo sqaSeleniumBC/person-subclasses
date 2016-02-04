@@ -1,9 +1,5 @@
-# Basic Project
+# Person Class Subclassing
 
- Basic Java Maven Project Structure
-
- * QA
- * Java
- * Maven
+ Project which uses subclasses
 
  [Jean-francois Nepton](http://sqasolution.com)
